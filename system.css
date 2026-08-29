@@ -1,0 +1,57 @@
+.streak-card {
+  display: flex;
+  align-items: center;
+  background: #f8cbf3;
+  border: 2px solid #f7a5f3;
+  padding: 30px 50px;
+  border-radius: 12px;
+  width: fit-content;
+  font-family: sans-serif;
+}
+
+.streak-icon {
+  font-size: 40px;
+  margin-right: 12px;
+}
+
+.streak-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.streak-number {
+  font-size: 39px;
+  font-weight: bold;
+  color: #e639ac;
+}
+
+.streak-label {
+  font-size: 20px;
+  color: #cc88c6;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+button {
+  margin-top: 10px;
+  font-size: 20px;
+  padding: 19px 28px;
+  background-color: #fc95d4;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #d854b7;
+}
+
+
+
+
+
+
+
+ 

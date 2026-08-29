@@ -1,9 +1,26 @@
 img {
-    width: 200px;
+    width: 300px;
 }
 body {
     text-align: center;
-    font-family: 'Arial';
-    background: rgb(112, 141, 141)
-    color: purple;
+    font-family: Dosis, sans-serif;
+    background: rgb(255, 224, 251);
+    color: rgb(216, 0, 151);
+    
+    button {
+        margin-top: 10px;
+        font-size: 20px;
+        padding: 19px 28px;
+        background-color: #fc95d4;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    button:hover {
+        background-color: #d854b7;
+    }
+    
 }
