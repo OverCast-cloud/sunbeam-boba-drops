@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: rgb(112, 141, 141)
+    color: purple;
+}
